@@ -1,0 +1,31 @@
+# ── Environment ───────────────────────────────
+python-dotenv
+
+# ── OpenAI ────────────────────────────────────
+openai
+
+# ── Mistral ───────────────────────────────────
+mistralai
+
+# ── Groq ──────────────────────────────────────
+groq
+
+# ── Gemini (Google) ───────────────────────────
+google-generativeai
+
+# ── LangChain Core ────────────────────────────
+langchain
+langchain-core
+langchain-community
+
+# ── LangChain Integrations ────────────────────
+langchain-openai
+langchain-mistralai
+langchain-groq
+langchain-google-genai
+
+# ── Utilities ─────────────────────────────────
+requests
+httpx
+pydantic
+tiktoken
